@@ -1,7 +1,7 @@
 class SkmCli < Formula
   desc "Sidekick Money CLI"
   homepage "https://github.com/sidekickmoney/skm-cli"
-  url "https://github.com/sidekickmoney/skm-cli/archive/refs/tags/0.95.0-alpha1.tar.gz"
+  url "https://github.com/sidekickmoney/skm-cli/releases/download/v0.95.0-alpha.1/skm-cli-v0.95.0-alpha.1.tar.gz"
   sha256 "34027fa760c27e4b9113a8b9be5f4a5b6e67dab192cad5b063e48d943d27c044"
   head "https://github.com/sidekickmoney/skm-cli.git", branch: "lite"
 
